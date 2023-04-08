@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar Jha</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Springboot,React**
+- 🌱 I’m currently learning **Springboot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vivekjha1213?tab=repositories](https://github.com/vivekjha1213?tab=repositories)
 
-- 💬 Ask me about **react,SpringBoot**
+- 💬 Ask me about ** Java ,Stack**
 
 - 📫 How to reach me **vivekjha1213@gmail.com**
 
