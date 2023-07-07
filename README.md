@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vivekjha1213?tab=repositories](https://github.com/vivekjha1213?tab=repositories)
 
-- 💬 Ask me about ** Java ,Stack**
+- 💬 Ask me about ** Python, Django, Java, SpringBoot, Full Stack**
 
 - 📫 How to reach me **vivekjha1213@gmail.com**
 
