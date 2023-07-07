@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vivek Kumar Jha</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vivekjha1213?tab=repositories](https://github.com/vivekjha1213?tab=repositories)
 
