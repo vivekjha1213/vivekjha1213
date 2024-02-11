@@ -44,7 +44,7 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" height="40" alt="golang logo" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/[golang-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.redbubble.com%2Fi%2Fsticker%2FGo-Lang-Logo-by-hipstuff%2F31475043.EJUG5&psig=AOvVaw21sh148zf_hVDcdNTQfQXf&ust=1707755168799000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODTmvPZo4QDFQAAAAAdAAAAABAE)" height="40" alt="golang logo" />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
     <img width="12" />
