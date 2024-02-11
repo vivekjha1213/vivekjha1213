@@ -12,7 +12,12 @@
 
 <br clear="both">
 
-<h5 align="left">✨ Creating bugs since I'm always up for a challenge.<br>📚 I'm currently learning: Full-stack development, including front-end and back-end technologies, Data structures, and algorithms.<br>🎯 Goals: Make a positive impact on the world with my coding skills.</h5>
+<h5 align="left">
+    ✨ Embracing challenges while perfecting my craft. <br>
+    📚 Currently delving into mastering backend technologies alongside ML, DL, and AI, as well as DevOps, front-end development, and algorithms. <br>
+    🎯 My ultimate goal? To harness my expertise in coding to create a positive impact on the world.
+</h5>
+
 
 ###
 
