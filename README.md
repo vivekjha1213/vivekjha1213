@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Vivek Jha and I'm a Software Engineer (SDE-1) from India</p>
+<p align="left">My name is Vivek Jha and I'm a Software Engineer (SDE) from India</p>
 
 ###
 
