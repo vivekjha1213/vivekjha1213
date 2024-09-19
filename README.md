@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Vivek Jha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Full+Stack+Developer;GoLang+Microservices+Expert;Python+Enthusiast;AI/ML+Practitioner;Always+learning+new+things&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;Backend+Enginner;Full+Stack+Developer;GoLang+Microservices+Expert;Python+Enthusiast;AI/ML ;Always+learning+new+things&center=true&width=380&height=45">
 </p>
 
 <p align="center">
