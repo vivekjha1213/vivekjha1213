@@ -49,18 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vivekjha1213&theme=react" alt="vivekjha1213's GitHub streak" />
 </p>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivekjha1213&theme=nord&column=7" alt="vivekjha1213's GitHub trophies" />
-</p>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vivekjha1213&theme=react-dark" alt="Contribution Graph" />
-</p>
-
 <h2 align="center">💼 Skills</h2>
 
 <p align="center">
@@ -86,17 +74,6 @@
   🌐 Building responsive front-end applications with React and modern JavaScript<br>
   🔄 Practicing DevOps with CI/CD pipelines and infrastructure as code<br>
   📚 Continuously learning and adapting to emerging technologies
-</p>
-
-<h2 align="center">🌟 Featured Projects</h2>
-
-<p align="center">
-  <a href="https://github.com/vivekjha1213/go-microservices-kit">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekjha1213&repo=go-microservices-kit&theme=react" />
-  </a>
-  <a href="https://github.com/vivekjha1213/django-ml-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=vivekjha1213&repo=django-ml-dashboard&theme=react" />
-  </a>
 </p>
 
 <h2 align="center">📫 How to reach me</h2>
