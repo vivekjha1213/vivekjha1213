@@ -14,7 +14,7 @@
 
 <p align="center">
   🌟 Software Engineer (SDE) from India<br>
-  💻 Full Stack Developer | GoLang Microservices Expert | Python Aficionado<br>
+  💻 Backend Engineer | GoLang Microservices Expert | Python Aficionado<br>
   🔭 Currently working on scalable microservices and AI-driven applications<br>
   🌱 Always exploring new technologies in the Go and Python ecosystems<br>
   🎯 Goal: Architecting robust, scalable solutions to solve complex problems
